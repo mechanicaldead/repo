@@ -1,0 +1,17 @@
+{
+"rig": {
+           "btc": "3F1jvbB6uKFPhir9JU8xxMjyYr6TtUDWCF",
+           "worker": "vm-nhos",
+           "group": ""
+       },
+       "access": {
+           "ssh": {
+               "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCSePfveSIRrFyB6aOgy/j8KG74hYMy4MaDapeCaNsZDl6w9SmdnS1RINC0LqR4JxinG3gks9GWgfUeCzE/c/JeFjqKJ2HatczNs/ZP6+23bXiYV9MLvHvstVPWoXxnH48ZBJTn7l+1K6lSp7AXqcjGoMoyAwSHlyKOONkaS3iCYPtpeFrgw2g6jmfWrbNcLNCQvWhxjLRUsvVUDQwlJPw62JGvee+hYHOZgF0RsPIBQ6Hd5IA3rdjzaz2upjzp5XDMiq17zlCWYQIclK4txqyTy5djX0Vw0qXF0rWuWKRZRVR1cmXb89o5eoB4rntrsIJhBGoHglcIBmxtnYuLSINx rsa-key-20220814"
+} },
+       "network": {
+           "wireless": {
+               "ssid": "",
+               "key": ""
+           }
+
+} }
